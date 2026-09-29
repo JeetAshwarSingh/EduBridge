@@ -26,7 +26,7 @@ This keeps **human judgment at the centre** of the system.
 
 ## System Workflow
 
-![no image found]("/images/Blank%20diagram-7.png")
+![no image found]("images/Blank%20diagram-7.png")
 >
 > *The flowchart illustrates the complete data flow, AI analysis, teacher dashboard and decision-making process of EduBridge.*
 
