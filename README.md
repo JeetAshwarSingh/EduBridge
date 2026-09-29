@@ -25,8 +25,7 @@ For example, if the system detects that a student may be disengaged or confused 
 This keeps **human judgment at the centre** of the system.
 
 ## System Workflow
-
-![no image found]("images/Blank%20diagram-7.png")
+![Workflow Diagram](images/Blank%20diagram-7.png)
 >
 > *The flowchart illustrates the complete data flow, AI analysis, teacher dashboard and decision-making process of EduBridge.*
 
